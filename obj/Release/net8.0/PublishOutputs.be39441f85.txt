@@ -1,6 +1,7 @@
 C:\Users\spamw\Desktop\GameStore\GameStore.Api\bin\Release\net8.0\publish\GameStore.Api.exe
 C:\Users\spamw\Desktop\GameStore\GameStore.Api\bin\Release\net8.0\publish\appsettings.Development.json
 C:\Users\spamw\Desktop\GameStore\GameStore.Api\bin\Release\net8.0\publish\appsettings.json
+C:\Users\spamw\Desktop\GameStore\GameStore.Api\bin\Release\net8.0\publish\GameStore.db
 C:\Users\spamw\Desktop\GameStore\GameStore.Api\bin\Release\net8.0\publish\GameStore.Api.dll
 C:\Users\spamw\Desktop\GameStore\GameStore.Api\bin\Release\net8.0\publish\GameStore.Api.runtimeconfig.json
 C:\Users\spamw\Desktop\GameStore\GameStore.Api\bin\Release\net8.0\publish\GameStore.Api.pdb

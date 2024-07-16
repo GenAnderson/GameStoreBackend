@@ -125,3 +125,4 @@ C:\Users\spamw\Desktop\GameStore\GameStore.Api\obj\Release\net8.0\refint\GameSto
 C:\Users\spamw\Desktop\GameStore\GameStore.Api\obj\Release\net8.0\GameStore.Api.pdb
 C:\Users\spamw\Desktop\GameStore\GameStore.Api\obj\Release\net8.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\spamw\Desktop\GameStore\GameStore.Api\obj\Release\net8.0\ref\GameStore.Api.dll
+C:\Users\spamw\Desktop\GameStore\GameStore.Api\bin\Release\net8.0\GameStore.db
